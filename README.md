@@ -1,6 +1,6 @@
 # Hi 👋 Zink here.
 
-* 🎈 ACMer (Sliver Medal @ ICPC Asia Regional 2018 | Sliver Medal @ ICPC China Invitational Contest 2018)
+* 🎈 ACMer (Sliver Medal @ ICPC Asia Regional Contest 2018 | Sliver Medal @ ICPC China Invitational Contest 2018)
 * 🎓 Bachelor of Software Engineering, graduated from SDUST (2016 - 2020)
 * 🌟 Contributor of [rCore](https://github.com/rcore-os/rCore-Tutorial-Book-v3)
 * ℹ️ Feed @ Baidu 2020 ~ 2022 / Map @ Baidu 2022 ~ 2024 / Flow @ ByteDance 2024 ~ Now
