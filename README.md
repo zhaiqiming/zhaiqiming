@@ -3,8 +3,8 @@
 * 🎈 ACMer (Sliver Medal @ ICPC Asia Regional Contest 2018 | Sliver Medal @ ICPC China Invitational Contest 2018)
 * 🎓 Bachelor of Software Engineering, graduated from SDUST (2016 - 2020)
 * 🌟 Contributor of [rCore](https://github.com/rcore-os/rCore-Tutorial-Book-v3)
-* ℹ️ Feed @ Baidu 2020 ~ 2022 / Map @ Baidu 2022 ~ 2024 / Flow @ ByteDance 2024 ~ Now
-* 🧐 learning [brpc](https://github.com/apache/brpc) & [hertz](https://github.com/cloudwego/hertz)
+* ℹ️ MEG @ Baidu 2020 ~ 2022 / MAP @ Baidu 2022 ~ 2024 / PDI @ ByteDance 2024 ~ Now
+* 🧐 learning ETCD
 
 ![Skills](https://skillicons.dev/icons?i=azure,cloudflare,workers,github,cpp,cs,sass,go,bash,docker,git,mysql,redis,linux,vscode)
 
